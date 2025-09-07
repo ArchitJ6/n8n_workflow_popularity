@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+aiohttp
+pydantic
+pytrends
+apscheduler
+python-dotenv
+urllib3<2
